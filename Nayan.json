@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "arish-bot",
-  "PREFIX": "$",
+  "BOTNAME": "META-Support",
+  "PREFIX": "/",
   "OPERATOR": [
-    "100000967372029",
-    "100000959749712"
+    "61571949586530",
+    "61571949586530"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    "100000967372029"
+    "61571949586530",
+    "61571949586530"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
